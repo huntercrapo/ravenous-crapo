@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ravenous-crapo/static/css/main.44fd304a.css",
+    "main.js": "/ravenous-crapo/static/js/main.7718d406.js",
+    "static/js/787.d43d5300.chunk.js": "/ravenous-crapo/static/js/787.d43d5300.chunk.js",
+    "static/media/background_search_mobile.jpg": "/ravenous-crapo/static/media/background_search_mobile.a6f8ee50c5c0c66a98c5.jpg",
+    "static/media/background_search_desktop.jpg": "/ravenous-crapo/static/media/background_search_desktop.1fa2f27303a89153d92b.jpg",
+    "index.html": "/ravenous-crapo/index.html",
+    "main.44fd304a.css.map": "/ravenous-crapo/static/css/main.44fd304a.css.map",
+    "main.7718d406.js.map": "/ravenous-crapo/static/js/main.7718d406.js.map",
+    "787.d43d5300.chunk.js.map": "/ravenous-crapo/static/js/787.d43d5300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44fd304a.css",
+    "static/js/main.7718d406.js"
+  ]
+}
